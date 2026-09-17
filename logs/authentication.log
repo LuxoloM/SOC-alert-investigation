@@ -1,0 +1,11 @@
+2026-09-17 01:35:12 AUTH_FAILED user=j.smith source_ip=185.XXX.XXX.42 destination=corporate-vpn reason=invalid_password
+2026-09-17 01:35:18 AUTH_FAILED user=j.smith source_ip=185.XXX.XXX.42 destination=corporate-vpn reason=invalid_password
+2026-09-17 01:35:25 AUTH_FAILED user=j.smith source_ip=185.XXX.XXX.42 destination=corporate-vpn reason=invalid_password
+2026-09-17 01:35:31 AUTH_FAILED user=j.smith source_ip=185.XXX.XXX.42 destination=corporate-vpn reason=invalid_password
+2026-09-17 01:35:42 AUTH_FAILED user=j.smith source_ip=185.XXX.XXX.42 destination=corporate-vpn reason=invalid_password
+2026-09-17 01:36:03 AUTH_SUCCESS user=j.smith source_ip=185.XXX.XXX.42 destination=corporate-vpn
+2026-09-17 01:36:17 VPN_CONNECTED user=j.smith source_ip=185.XXX.XXX.42 assigned_ip=10.20.14.27
+2026-09-17 01:42:08 FILE_ACCESS user=j.smith source_ip=10.20.14.27 file=/Finance/Payroll/Employee_Salaries.xlsx action=READ
+2026-09-17 01:43:19 FILE_ACCESS user=j.smith source_ip=10.20.14.27 file=/Finance/Payroll/Employee_Salaries.xlsx action=DOWNLOAD
+2026-09-17 01:44:02 FILE_ACCESS user=j.smith source_ip=10.20.14.27 file=/Finance/Payroll/Employee_Salaries.xlsx action=DOWNLOAD
+2026-09-17 01:47:33 VPN_DISCONNECTED user=j.smith source_ip=10.20.14.27
